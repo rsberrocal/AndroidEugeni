@@ -1,7 +1,0 @@
-#Tue Oct 17 18:06:40 CEST 2017
-base.0=/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8046472335dfe142730af48a74cf1a8ed5685f5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9d1e383183be44397bc850c89ad740c3266e1c0/classes.dex
-base.1=/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9d1e383183be44397bc850c89ad740c3266e1c0
-file.0=/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8046472335dfe142730af48a74cf1a8ed5685f5/classes.dex
