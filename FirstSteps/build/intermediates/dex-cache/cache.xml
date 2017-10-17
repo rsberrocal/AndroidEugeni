@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/82918ef057fe13d8f673015228baaf87625f7a82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeecea41f3d74b3b0f4e9b5fcc6d501fafafb600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/a7c063d2390e4ad34b225b3f78feb545ccd30f7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94c27d4490ef6dcbc894c0883fe22266c6faf992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/1490594c710add551773bd028160af1a6c9866d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5027a4abaf5f7f863425a5b5345263c2e3a7eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/de130a77191c1c361533d623ece00f6331ac720e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f98b55b095dc32d786fdb863b72a6eafc82badc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/9884a072d21adfe7fad43cc4028bdd15e99179b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2cead7d0178ab36df085dbe327ad5d2aad857dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9d1e383183be44397bc850c89ad740c3266e1c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0009d77c0acc004a349c9fb0fb91687b6767f79c">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8046472335dfe142730af48a74cf1a8ed5685f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9992d4eadfec85efe31333a7e14cdc4b654f0bf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/1a5bc1cdfbfe748491dc9e6c7e1e5f89aef4df70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a6a88047a55645ab98f291f241da044df07080e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/771b7fc626c5a8841a16bbb6a49d819a027214d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a80e7aadca6a3fae959970c3eb8b1093e7e6b23d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/6165fc368e2c57f99a8741667ff1ee9238715625/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9de6f7ccf8cc43301d9539d2b999f125c0126208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/5ba5b80d40fc9efd6727401eaba87c56a61eac83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf877e7063f2b341c8dbd881c6fe0c1dd52c58e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/067f97b750e12627e2f21d8122dc040ed19fbc4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aacb706e18ff9a3d3f8a993a0e3dc5aa3488309d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/2218a5aa0b71a4896151ed1280f1b68a88f25faf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36e73088d121e627b84fbe177d6de6215f431f97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/f46250fd710d1b3c565f9d157ae33d74f93ee85c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa9fc573b824dae595f2bc2b2553c68e95b138af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_76a96f981a24789de59f1e85c9fe4116469564d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/infot/.android/build-cache/5036242c7e4b5daeb613d029b972ee34f344d771/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/infot/Documents/AndroidEugeni/FirstSteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17adff28b5ae631a7b140abb957be7e23789b83b/classes.dex" />
+    </item>
+
+</items>
