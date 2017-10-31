@@ -27,14 +27,28 @@
     <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" android:layout_weight="0.03" android:gravity="center_vertical">
+            android:layout_height="match_parent" android:layout_weight="0.03"
+            android:gravity="center">
         <Button
-                android:text="Button"
+                android:text="+"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" android:id="@+id/button9" android:layout_weight="1"/>
+                android:layout_height="wrap_content" android:id="@+id/btAdd" android:layout_weight="0.61"
+                android:onClick="addNum"/>
         <Button
-                android:text="Button"
+                android:text="-"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" android:id="@+id/button8" android:layout_weight="1"/>
+                android:layout_height="wrap_content" android:id="@+id/btRemove" android:layout_weight="0.41"
+                android:onClick="removeNum"/>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:layout_weight="0.03"
+            android:gravity="bottom|center_horizontal">
+        <Button
+                android:text="Reset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/btReset" android:layout_weight="1"
+                android:onClick="resetNum"/>
     </LinearLayout>
 </RelativeLayout>
