@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Checkbox">Activar Calculadora</string>
+    <string name="resultat">Resultado</string>
+    <string name="powerOff">Off</string>
+    <string name="powerOn">On</string>
+</resources>
