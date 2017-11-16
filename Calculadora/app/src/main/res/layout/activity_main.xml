@@ -126,7 +126,7 @@
                     android:onClick="div"/>
         </TableRow>
         <CheckBox
-                android:text="CheckBox"
+                android:text="Power"
                 android:layout_width="110dp"
                 android:layout_height="wrap_content" android:id="@+id/cbPower"
                 android:checked="true"/>
