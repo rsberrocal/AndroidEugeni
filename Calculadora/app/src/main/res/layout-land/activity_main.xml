@@ -9,14 +9,14 @@
         android:gravity="top|center">
 
     <LinearLayout
-            android:layout_marginTop="270dp"
-            android:orientation="horizontal"
+            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent" android:layout_alignParentTop="true"
+            android:gravity="right|center_vertical">
         <TableRow
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" android:layout_marginRight="40dp">
             <Button
                     android:text="+"
                     android:layout_width="wrap_content"
@@ -24,9 +24,9 @@
                     android:onClick="sum"/>
         </TableRow>
         <TableRow
-                android:layout_width="match_parent"
-                android:layout_height="match_parent" android:gravity="bottom|center"
-                android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" android:layout_marginRight="40dp">
             <Button
                     android:text="-"
                     android:layout_width="wrap_content"
@@ -34,9 +34,9 @@
                     android:onClick="min"/>
         </TableRow>
         <TableRow
-                android:layout_width="match_parent"
-                android:layout_height="match_parent" android:gravity="bottom|center"
-                android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:gravity="bottom|center"
+                android:orientation="horizontal" android:layout_marginRight="40dp">
             <Button
                     android:text="X"
                     android:layout_width="wrap_content"
@@ -44,14 +44,24 @@
                     android:onClick="mult"/>
         </TableRow>
         <TableRow
-                android:layout_width="match_parent"
-                android:layout_height="match_parent" android:gravity="bottom|center"
-                android:orientation="horizontal">
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:gravity="bottom|center"
+                android:orientation="horizontal" android:layout_marginRight="40dp">
             <Button
                     android:text="/"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" android:id="@+id/btnDiv" android:textSize="24sp"
                     android:onClick="div"/>
+        </TableRow>
+        <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" android:gravity="left" android:layout_marginRight="40dp">
+            <CheckBox
+                    android:text="@string/Checkbox"
+                    android:layout_width="110dp"
+                    android:layout_height="wrap_content" android:id="@+id/cbPower"
+                    android:checked="true" android:layout_weight="1"/>
         </TableRow>
     </LinearLayout>
     <LinearLayout
@@ -78,12 +88,12 @@
                 android:gravity="center"/>
         <TextView
                 android:id="@+id/txResultat"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
-                app:layout_constraintTop_toTopOf="parent" android:textSize="24sp"/>
+                app:layout_constraintTop_toTopOf="parent" android:textSize="24sp" android:gravity="center"/>
     </LinearLayout>
     <TableLayout
             android:layout_marginTop="100dp"
