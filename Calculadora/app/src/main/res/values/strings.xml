@@ -4,4 +4,6 @@
     <string name="Checkbox">Power</string>
     <string name="powerOn">On</string>
     <string name="powerOff">Off</string>
+    <string name="btnResult">Show Result</string>
+    <string name="btnBack">Go Back</string>
 </resources>

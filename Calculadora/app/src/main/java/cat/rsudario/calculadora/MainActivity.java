@@ -1,5 +1,6 @@
 package cat.rsudario.calculadora;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,8 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public TextView txRes;
     public TextView txPower;
     public CheckBox cbPower;
-    public int firstNum;
-    public int secondNum;
+    public int firstNum=0;
+    public int secondNum=0;
     public boolean firstOp=false;
     public boolean stillOp=true;
 
@@ -42,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
     }
 
     public void addNum(View v){
@@ -55,6 +57,12 @@ public class MainActivity extends AppCompatActivity {
                 this.txRes.setText(this.txRes.getText().toString()+btn.getText().toString());
             }
         }
+    }
+
+    public void pushResultPage(View v){
+        Intent intentNewPage = new Intent(this,ResultActivity.class);
+        intentNewPage.putExtra("result",this.firstNum+this.secondNum);
+        startActivity(intentNewPage);
     }
 
     public void sum(View v){

@@ -5,4 +5,6 @@
     <string name="resultat">Resultado</string>
     <string name="powerOff">Off</string>
     <string name="powerOn">On</string>
+    <string name="btnResult">Mostrar resultado</string>
+    <string name="btnBack">Volver atras</string>
 </resources>

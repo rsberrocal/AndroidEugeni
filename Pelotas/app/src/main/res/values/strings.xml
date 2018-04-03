@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Pelotas</string>
+
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Difficult</string>
+    <string name="ayuda">Help</string>
+
+    <string name="title_activity_ayuda">Help</string>
+
+    <string name="ayudaText">
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras purus ante, tempus scelerisque tempor sed,
+        tincidunt pretium tortor. Pellentesque in nulla non tellus hendrerit egestas sit amet eu magna. Nullam dui
+        purus, molestie eget luctus facilisis, lobortis faucibus sem. Vestibulum ante ipsum primis in faucibus orci
+        luctus et ultrices posuere cubilia Curae; Sed gravida pharetra sem, vel porttitor mauris pharetra eget. Maecenas
+        ac dui eget augue eleifend sodales a non erat. Pellentesque sit amet tristique nunc. Suspendisse gravida ante et
+        erat tincidunt, nec faucibus justo eleifend. Nullam luctus vitae nunc ac cursus. Curabitur et erat risus.
+        Curabitur gravida nisi in arcu sagittis pellentesque. Sed ut nisi non neque euismod ultrices. Duis venenatis
+        ante ac sodales hendrerit. Ut mollis vitae odio at euismod. Sed vel ornare dui. Ut vitae magna nec mauris rutrum
+        malesuada eu nec velit.
+
+        In consequat nulla eu urna ultricies aliquam. Vivamus eget elementum nunc. Duis mattis turpis enim, at venenatis
+        metus ornare sodales. Aenean sed malesuada justo, ut tristique ante. Fusce tortor est, pharetra sit amet rutrum
+        non, hendrerit id lacus. Nunc vitae augue nec est ullamcorper vehicula vitae in dolor. Morbi turpis massa,
+        gravida nec lorem lacinia, sodales egestas ligula. Ut vitae dolor eget ipsum ultricies consequat quis eget
+        purus. Sed bibendum magna leo, non interdum leo auctor et. Aliquam a vulputate nunc. Duis porttitor tempor
+        lacus. Phasellus a dolor ac lacus malesuada venenatis. Duis tempus non lectus id iaculis. Quisque consectetur
+        tempus turpis, et molestie nunc vestibulum vitae.
+
+        Nulla id ultricies nunc, id tempus purus. Fusce sit amet diam rhoncus, laoreet tortor non, ultrices velit.
+        Praesent vel tincidunt nisl. Aliquam erat volutpat. Cras vel posuere mi, sodales molestie risus. Nulla
+        pellentesque, neque sit amet vehicula dignissim, massa odio interdum elit, id aliquet libero ligula sed nisi.
+        Maecenas commodo leo enim, ultrices lobortis elit faucibus nec. Vestibulum vel eros in turpis finibus efficitur.
+        Suspendisse tincidunt risus pellentesque massa euismod malesuada. In rutrum purus neque, a tristique ante
+        vehicula ac.
+
+        Sed porta elementum ante vitae consequat. Integer a est elit. Nam tristique pharetra mi tincidunt commodo. Etiam
+        rutrum nulla non volutpat posuere. Ut consectetur ligula nec quam pharetra ornare. Nulla molestie vitae sapien
+        eget imperdiet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Suspendisse eu enim neque. Sed in leo nec urna mattis iaculis. Mauris sollicitudin lacus massa, quis facilisis
+        lectus mattis auctor. Duis bibendum tellus et lorem sodales efficitur.
+
+        Nulla ultricies fringilla nunc vel dictum. Integer porta elit et auctor elementum. Nullam sodales, dui in
+        vestibulum condimentum, neque neque ultricies lectus, quis porttitor nunc orci id augue. Proin ac nisl sodales,
+        dignissim dolor a, commodo eros. Maecenas elementum ligula at urna commodo, et placerat dui luctus. Suspendisse
+        laoreet sollicitudin cursus. Ut non nisi non tellus placerat mattis sed id sem. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Cras laoreet, orci eu convallis sodales, erat dui
+        rutrum turpis, sed cursus mi sapien id purus. Proin mattis nibh felis, nec facilisis dolor interdum commodo. In
+        at congue ante, at efficitur metus. Nunc quam nibh, vulputate in aliquet et, dapibus in diam.
+
+        Proin id eleifend ligula. Suspendisse sed nisi quis ex pretium varius. Sed dignissim metus sed orci rutrum
+        viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc luctus id
+        neque nec vestibulum. Sed tincidunt pretium ante, dictum semper nibh malesuada at. Duis venenatis ultrices metus
+        sit amet iaculis. Nam et erat tempor, bibendum ante nec, maximus dolor. Vestibulum et massa id nisi vestibulum
+        lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus
+        nec urna ac sem accumsan fringilla.
+
+        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus egestas
+        elementum libero in rhoncus. Phasellus cursus suscipit diam sit amet pharetra. Mauris ex magna, blandit quis
+        metus id, dictum dapibus nibh. Aliquam erat volutpat. Sed vel mauris nisi. Praesent aliquam felis vel massa
+        lobortis, vitae ultricies lectus blandit.
+
+        Ut tincidunt tempus nunc, et vulputate diam dictum et. Phasellus sit amet neque in eros hendrerit cursus. Nunc
+        fermentum vel sapien sit amet porta. Cras eget dui dolor. Suspendisse id metus dolor. Orci varius natoque
+        penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pulvinar dignissim ipsum rutrum
+        consequat. Phasellus eu quam felis.
+
+    </string>
+
+    <string name="ayudaBack">Back</string>
+    <string name="score">Score</string>
+
+</resources>

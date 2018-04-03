@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnDefaultWidth">80dp</dimen>
+    <dimen name="btnDefaultHeight">20dp</dimen>
+    <dimen name="btnDefaultFontSize">24px</dimen>
+</resources>

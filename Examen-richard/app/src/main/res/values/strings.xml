@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen-richard</string>
+    <string name="txtCalculo">Calculo</string>
+    <string name="txtReset">Resetear</string>
+    <string name="txtInformacion">Información</string>
+    <string name="info">Esta aplicación sirve para comparar el valor de diferentes monedas</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen-richard</string>
+    <string name="txtCalculo">Càlcul</string>
+    <string name="txtReset">Reseteig</string>
+    <string name="txtInformacion">Informació</string>
+    <string name="info">Aquesta aplicació serveix per comparar el valor de diferents monedes</string>
+</resources>
